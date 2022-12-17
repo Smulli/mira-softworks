@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmira_softworks"]=self["webpackChunkmira_softworks"]||[]).push([[443],{7381:function(n,r,s){s.r(r),s.d(r,{default:function(){return k}});var t=s(3396);const a={class:"about"},u=(0,t._)("h1",null,"This is an about page",-1),e=[u];function o(n,r){return(0,t.wg)(),(0,t.iD)("div",a,e)}var i=s(89);const c={},f=(0,i.Z)(c,[["render",o]]);var k=f}}]);
+//# sourceMappingURL=about.2efe1e75.js.map
